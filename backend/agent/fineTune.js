@@ -1,3 +1,4 @@
+##comment 
 export const fewExamples = `
 Clause: Vendor must pay penalty if delivery is delayed
 Output: {"name":"Penalty Clause","risk_score":0.9,"importance":0.85,"reason":"Penalty imposes financial risk"}
